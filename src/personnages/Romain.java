@@ -18,6 +18,6 @@ public class Romain {
 	}
 
 	private String prendreParole() {
-		return "Le romain " + nom + " : ";
+		return "Le Romain " + nom + " : ";
 	}
 }
